@@ -11,6 +11,6 @@ Foram utilizados três (3) datasets nesse trabalho, sendo:
   - `all-aml-train`: contendo todos os genes expressos em 38 pacientes.
   - `all-aml-test`: contendo todos os genes expressos em 34 pacientes. Esse dataset foi usado como validação para o modelo.
     
-Todos os datasets podem ser encontrados na pasta [data](./data) dentro do diretório do trabalho prático I.
+Todos os datasets podem ser encontrados na pasta [data](./Trabalho%20Prático%20I/data) dentro do diretório do trabalho prático I.
 
 
